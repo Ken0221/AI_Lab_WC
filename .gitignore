@@ -8,7 +8,6 @@
 __pycache__/
 
 # image
-# *.png
 
 # execute file
 *.exe
@@ -17,6 +16,7 @@ __pycache__/
 
 # data
 *.csv
+*.png
 *.jpg
 *.jpeg
 
