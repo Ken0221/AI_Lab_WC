@@ -1,1 +1,28 @@
-/module 1/codework
+# for this project only
+# EEG_data/
+
+# for local use
+.vscode/
+.cursor/
+.DS_Store
+__pycache__/
+
+# image
+# *.png
+
+# execute file
+*.exe
+*.out
+*.o
+
+# data
+*.csv
+*.jpg
+*.jpeg
+
+# file
+*.docx
+*.doc
+*.ppt
+*.pptx
+
