@@ -18,6 +18,9 @@ __pycache__/
 *.jpg
 *.jpeg
 *.mat
+*.zip
+*.tar
+*.rar
 
 # file
 *.docx
