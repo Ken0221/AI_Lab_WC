@@ -17,6 +17,7 @@ __pycache__/
 *.png
 *.jpg
 *.jpeg
+*.mat
 
 # file
 *.docx
